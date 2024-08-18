@@ -535,6 +535,10 @@
     height: 20vh;
 }
 
+.box-para a{
+    font-size: 1.8vh;
+}
+
 .mid-third{
     display: none;
 }
